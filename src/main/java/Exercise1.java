@@ -13,8 +13,7 @@
  * A couple of hints:
  * 1) You want to use floating point arithmetic, not integers
  * 2) To output your result to the screen you can use the following
- * method.
- * <p/>
+ *    method.
  * System.out.println();
  */
 public class Exercise1 {
@@ -25,7 +24,7 @@ public class Exercise1 {
             fahrenheitTemperature = Float.parseFloat(args[0]);
         }
 
-        float celsiusTemperature;
+        float celsiusTemperature = 0.0f;
 
         // enter your code to convert from fahrenheit to celsius here.
 

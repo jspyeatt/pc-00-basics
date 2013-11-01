@@ -7,6 +7,14 @@
  * block section allows you to add human-readable information to the
  * file to help others understand what your program does. Comment
  * blocks aren't interpreted by the java compiler.
+ *
+ * To run your program in intellij do the following:
+ *
+ * 1) Highlight the source code for TheVeryBeginning in the project
+ *    panel in the left nav.
+ * 2) Right click and select   run TheVeryBeginning.main(). Alternatively
+ *    you can click on Cntl+Shirt+F10.
+ * 3) The output will appear in the lower panel.
  */
 public class TheVeryBeginning {
 
