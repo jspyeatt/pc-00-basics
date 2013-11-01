@@ -11,6 +11,12 @@
 public class TheVeryBeginning {
 
     public static void main(String[] args) {
+
+        // this is another type of comment.
+        // it is called an in-line comment.
+
+        // the line below is an executable line of java code.
+        // every executable line of code ends with a semi-colon.
         System.out.print("hello");
     }
 }
